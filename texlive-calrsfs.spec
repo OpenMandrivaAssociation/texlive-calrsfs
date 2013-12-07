@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-calrsfs
 Version:	20100220
-Release:	5
+Release:	6
 Summary:	Copperplate calligraphic letters in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/calrsfs
