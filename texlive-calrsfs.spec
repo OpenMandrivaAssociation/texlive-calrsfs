@@ -3,7 +3,7 @@ Version:	17125
 Release:	2
 Summary:	Copperplate calligraphic letters in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/calrsfs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/calrsfs
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/calrsfs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/calrsfs.doc.r%{version}.tar.xz
